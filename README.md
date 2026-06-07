@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Chetan Didwaniya👋
 
-<!--
-**chetandidwaniya0206-ship-it/chetandidwaniya0206-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (Data Science) Student at Poornima Institute of Engineering and Technology, Jaipur
 
-Here are some ideas to get you started:
+📍 Jaipur, Rajasthan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested in Programming, Web Development, Cloud Computing, and Open Source
+
+## Skills
+- C
+- C++
+- Python
+- Java
+- HTML
+- CSS
+
+## Currently Learning
+- Git & GitHub
+- Open Source
+- Web Development
+
+## Goals
+- Contribute to GSSoC
+- Build Real-World Projects
+- Improve Problem Solving Skills
